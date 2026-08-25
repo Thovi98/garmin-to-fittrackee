@@ -78,6 +78,5 @@ garmin2fittrackee setup fittrackee
 
 The command ask your application ID, application secret, the domain of you're domain Fittrackee instance (without `https://`).
 
-⚠️ Be certain to copy/pasted all the line output (and do not ctrl+click on it). If you do not, the sync will fail. ⚠️
-
 Then the CLI will guide you through authorising the application to Fittrackee.
+⚠️ Be certain to copy/pasted all the line output (and do not ctrl+click on it). If you do not, the sync will fail. ⚠️
